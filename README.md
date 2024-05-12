@@ -1,3 +1,6 @@
+## Comment analyzer 
+
+#### Bryce Johnson
 
 This is the readme for LSC 902 project on analyzing youtube comments to understand the perceptions of an issue public. 
 
