@@ -1,0 +1,102 @@
+ChannelName: Bloomberg Television
+GPT-Summary:
+  blue: 'The first set of comments generally critiques the style and delivery of an
+    interview, noting the interviewer''s energy and the interviewee''s gestures.
+
+
+    Subject: Interview Style and Delivery'
+  green: 'The first set of comments largely praises Demis Hassabis for his contributions
+    to science and expresses hopes for his future achievements and impact on various
+    scientific projects.
+
+
+    Subject: Praise and expectations for Demis Hassabis''s contributions to science'
+  pink: "The first set of comments primarily praises Demis Hassabis for his contributions\
+    \ and genius in the field of AI, often in a hyperbolic or humorous manner. \n\n\
+    Subject: Praise for Demis Hassabis"
+  purple: 'The first set of comments expresses skepticism and concerns about technological
+    and medical advancements, with a mix of humor and cynicism about future predictions
+    and current developments.
+
+
+    Subject: Skepticism and concerns about technological and medical advancements'
+  red: 'The first set of comments generally express admiration and optimism about
+    the advancements in AI technology and its applications, with a humorous touch
+    on personal desires like hair growth solutions.
+
+
+    Subject: Public reactions to AI advancements and applications'
+PublishDate: '2024-05-08'
+Statistics:
+  commentCount: '130'
+  favoriteCount: '0'
+  likeCount: '1369'
+  viewCount: '63655'
+VideoID: RIrnMVDM_N8
+VideoTitle: Google DeepMind CEO on Drug Discovery, Hype, Isomorphic
+blue:
+- Great timing, much better interview than Sundar&#39;s
+- shit
+- a lot of hand gestures going on with these two, hand jive masters
+- Pretty sure the host did a bunch of meth to try and keep up with the guests brain
+  power
+- Great interviewer! Succinct questions. Covered a lot in 12 mins. <br><br>Most of
+  the big YouTube podcasters would have taken 3 hours to get the same info.
+clusters:
+  blue:
+    size: 11
+  green:
+    size: 20
+  pink:
+    size: 12
+  purple:
+    size: 15
+  red:
+    size: 26
+explained_variance_ratio_: '[0.07079548 0.05389177]'
+green:
+- By end of the next year we will probably have a virtual cell - and Demis should
+  get a Nobel Prize for all his contributions (and become next CEO of Google)
+- Demis Hassabis, the next Alphabet CEO.
+- Demis Hassabis deserves Nobel Prize in medicine for the invention of the AlphaFold
+  system!
+- Would Hassabis please address Human Microbiota Project? It&#39;s the low hanging
+  fruit to youthfulness and longevity. The scientific evidence is &quot;The Longevity
+  Paradox...&quot; by scientist and heart surgeon Gundry and the physical demonstration
+  is Jhoon Rhee, father of American martial arts who was like a teenager at age 83.
+  You don&#39;t need synthetic drugs because your microbiome can produce what you
+  need for youthfulness and longevity. Hassabis should solve the human microbiome
+  project at the protein levels.
+- As a computational biologist from a small biotech company, I am scared that these
+  bigtech AI companies will overtake my job. But as a human being, I hope they make
+  a huge progress to find better drugs in more efficient way. <br>I am also thankful
+  that Demis is interested in biology and various science fields rather than just
+  making targeted advertisement.
+pink:
+- Thank you demis !
+- dam the universe did good to make someone like demis
+- Demis a genius
+- Demis is in another league, a genius, the real AI GOAT
+- I read it as Demis Hassbis discovers drugs
+purple:
+- Successful vaccines? Haha, my health has been noticeably altered since the vaccine,
+  I got it as a hospital worker very early on.
+- "This is like the beginning of the movie &quot;I Am Legend&quot;, zombie apocalypse\
+  \ incoming \U0001F9DF\u200D\u2642\uFE0F"
+- So when is my car driving me everywhere, 2040?
+- 2 years? Too slow. You guys will get left behind for sure. Things are gonna move
+  at a much faster pace. Try to keep up!
+- "Roadblock? Money &amp; time, always. Gotta figure out how to pay people for all\
+  \ their data\u2026even if it\u2019s generated data, the seeds have to come from\
+  \ somewhere."
+red:
+- The people saying that Google are left behind in AI are lunatics
+- "Simply stunning the rate of change over the last decade. Really amazing. And the\
+  \ weird part is this advanced tech is just starting\u2026<br><br>Really cool stuff!\
+  \ Congratulations<br><br>AlphaCell2 (2028)"
+- All I saw was &quot;Google DeepMind CEO on Drug.....&quot;
+- Great work! More spotlight should be placed on such advancement and research.  A
+  clear economic model should emerge on its application with the right measures to
+  prevent its misuse.
+- Can&#39;t wait for the drug that will get me a full head of hair!
+singular_values_: '[2.16486022 1.8888101 ]'

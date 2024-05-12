@@ -1,0 +1,105 @@
+ChannelName: "\u6700\u4F73\u62CD\u6863"
+GPT-Summary:
+  blue: 'The first set of comments discusses topics related to the stock market speculation
+    on synthetic biology, the limitations of AI in structural biology, potential research
+    using Sora 3.0, and hopes for a post-cancer era, along with a request for analysis
+    on investment opportunities.
+
+
+    Subject: Discussion on synthetic biology, AI limitations in biology, research
+    tools, and future medical hopes in a YouTube video comment section.'
+  green: 'The first set of comments express excitement and concern, with mentions
+    of potential Nobel Prize recognition and the dangerous possibility of weaponizing
+    the technology.
+
+
+    Subject: Public Reaction to Technological Advancements'
+  pink: 'The first set of comments express a mix of frustration, humor, and attention
+    to unrelated topics like a blogger''s T-shirt and corporate grievances against
+    Google.
+
+
+    Subject: Mixed reactions and diverse topics in viewer comments'
+  purple: 'The first set of comments discusses hopes for a post-cancer era, speculates
+    on stock market implications, debates AI''s limitations in structural biology,
+    and mentions the potential misuse of technology for creating biological weapons.
+
+
+    Subject: Public reaction and speculation on technological advancements in biology
+    and their implications'
+  red: 'The first set of comments express a mix of reactions ranging from praise for
+    the blogger''s quick updates, to strong negative sentiments towards Google''s
+    influence on individual enterprises, and discussions about avoiding back pain
+    with a company president.
+
+
+    Subject: Mixed reactions to a blogger''s content and Google''s corporate influence'
+PublishDate: '2024-05-09'
+Statistics:
+  commentCount: '36'
+  favoriteCount: '0'
+  likeCount: '238'
+  viewCount: '8732'
+VideoID: pYbJS1MeMjE
+VideoTitle: "\u3010\u4EBA\u5DE5\u667A\u80FD\u3011Google\u53D1\u5E03AlphaFold 3 | \u53EF\
+  \u9884\u6D4B\u6240\u6709\u751F\u547D\u5206\u5B50\u7EC4\u5408 | \u51C6\u786E\u6027\
+  \u63D0\u9AD8100% | AlphaFold Server | DeepMind | Isomorphic Labs"
+blue:
+- "\u6240\u4EE5A\u80A1\u7092\u4F5C\u5408\u6210\u751F\u7269"
+- "\u5173\u4E8EAI\u5728\u751F\u7269\u7ED3\u6784\u5B66\u7684\u9650\u5236\u989C\u5B81\
+  \u53C8\u4F1A\u600E\u4E48\u8BF4\uFF1F"
+- "\u53EF\u4EE5\u7ED3\u5408Sora 3.0\u505A\u52A8\u529B\u5B66\u7814\u7A76"
+- "\u5E0C\u671B \u540E\u764C\u75C7\u65F6\u4EE3\u5C3D\u65E9\u5230\u6765\uFF01"
+- "\u5E0C\u671B\u5BF9\u76F8\u5173\u7684\u6295\u8D44\u673A\u4F1A\uFF0C \u4EE5\u540E\
+  \u4E5F\u627E\u673A\u4F1A\u5206\u6790\u4E00\u4E0B\uFF0C \u8C22\u8C22"
+clusters:
+  blue:
+    size: 4
+  green:
+    size: 4
+  pink:
+    size: 3
+  purple:
+    size: 4
+  red:
+    size: 4
+explained_variance_ratio_: '[0.10579528 0.08636138]'
+green:
+- <a href="UCkszU2WH9gy1mb0dV-11UJg/HvgfY93GEYmqvwLUuYDwAQ"></a>
+- No.1!
+- "\u8981\u5F97\u8BFA\u5956\u4E86\u5427"
+- No3
+- "\u5DF2\u7ECF\u53EF\u4EE5\u7528\u6765\u5236\u4F5C\u6B66\u5668\U0001F605\U0001F605\
+  <br>\u6BD4\u5982\u8BBE\u8BA1\u4E00\u6B3E\u4E13\u95E8\u9488\u5BF9\u4EBA\u7C7B\u7684\
+  \u670A\u75C5\u6BD2\U0001F622\U0001F622"
+pink:
+- "\u201C\u8FD9\u4E2A\u9700\u6C42\u505A\u4E0D\u4E86\u201D<br>&quot;I don&#39;t want\
+  \ to do this shit&quot;<br><br>\u535A\u4E3B\u7684T\u6064\u6210\u529F\u5730\u5438\
+  \u5F15\u4E86\u6211\u7684\u6CE8\u610F\u529B\u3002"
+- "\u5173\u6CE8\u535A\u4E3B\u5C31\u5BF9\u4E86\uFF0C\u771F\u8FC5\u901F"
+- "\u8FD9\u4E2A\u4F53\u6064\u886B\u4E0D\u9519"
+- "\u725B\u903C<br>\u521A\u521A\u770B\u5B8C\u4E86\u4E00\u4E2A\u53C8\u66F4\u65B0\u4E86"
+- "\u4ED6\u5988\u7684\u8C37\u6B4C\u6EDA\u5F00\u6211\u7684\u4F01\u696D\u3001\u8FD8\u6211\
+  \u8C37\u6B4C\u3002\u8D54\u507F\u8D23\u4EFB\u4E0E\u7F5A\u6B3E\u6B7B\u5211\uFF0C\u9A6C\
+  \u4E0A\u505C\u6B62\u5DE5\u4F5C-\u6211\u7684\u4F01\u696D\u4E0D\u9700\u8981\u4F60\u3002"
+purple:
+- "\u5E0C\u671B \u540E\u764C\u75C7\u65F6\u4EE3\u5C3D\u65E9\u5230\u6765\uFF01"
+- "\u6240\u4EE5A\u80A1\u7092\u4F5C\u5408\u6210\u751F\u7269"
+- "\u5173\u4E8EAI\u5728\u751F\u7269\u7ED3\u6784\u5B66\u7684\u9650\u5236\u989C\u5B81\
+  \u53C8\u4F1A\u600E\u4E48\u8BF4\uFF1F"
+- "\u5DF2\u7ECF\u53EF\u4EE5\u7528\u6765\u5236\u4F5C\u6B66\u5668\U0001F605\U0001F605\
+  <br>\u6BD4\u5982\u8BBE\u8BA1\u4E00\u6B3E\u4E13\u95E8\u9488\u5BF9\u4EBA\u7C7B\u7684\
+  \u670A\u75C5\u6BD2\U0001F622\U0001F622"
+- "\u5E0C\u671B\u5BF9\u76F8\u5173\u7684\u6295\u8D44\u673A\u4F1A\uFF0C \u4EE5\u540E\
+  \u4E5F\u627E\u673A\u4F1A\u5206\u6790\u4E00\u4E0B\uFF0C \u8C22\u8C22"
+red:
+- "\u662F\u8FD9\u4E2A\u8BA9\u989C\u5B81\u56DE\u56FD\u4E86\uFF1F"
+- "\u5173\u6CE8\u535A\u4E3B\u5C31\u5BF9\u4E86\uFF0C\u771F\u8FC5\u901F"
+- "\u4ED6\u5988\u7684\u8C37\u6B4C\u6EDA\u5F00\u6211\u7684\u4F01\u696D\u3001\u8FD8\u6211\
+  \u8C37\u6B4C\u3002\u8D54\u507F\u8D23\u4EFB\u4E0E\u7F5A\u6B3E\u6B7B\u5211\uFF0C\u9A6C\
+  \u4E0A\u505C\u6B62\u5DE5\u4F5C-\u6211\u7684\u4F01\u696D\u4E0D\u9700\u8981\u4F60\u3002"
+- "\u5927\u98DB\u771F\u662F\u795E\u901F\u3002\u6211\u525B\u525B\u5E7E\u5C0F\u6642\u524D\
+  \u9084\u5728\u8DDFisomorphic lab\u7684\u7E3D\u88C1\u8A0E\u8AD6\u5982\u4F55\u907F\
+  \u514D\u80CC\u75DB\u3002"
+- "\u725B\u903C<br>\u521A\u521A\u770B\u5B8C\u4E86\u4E00\u4E2A\u53C8\u66F4\u65B0\u4E86"
+singular_values_: '[1.25094928 1.13022872]'

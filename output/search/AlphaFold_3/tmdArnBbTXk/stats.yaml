@@ -1,0 +1,100 @@
+ChannelName: Cleo Abram
+GPT-Summary:
+  blue: 'The initial comments express enthusiasm and optimism about the positive and
+    beneficial applications of AI technology in fields like healthcare and decision-making.
+
+
+    Subject: Positive Reactions to AI Applications'
+  green: 'The first set of comments generally express skepticism, curiosity, and enthusiasm
+    about a technological or scientific advancement, possibly related to computing
+    or AI efficiency in practical applications.
+
+
+    Subject: Public reactions to technological advancements'
+  pink: 'The first set of comments mainly express viewers'' personal feedback on the
+    presentation style and requests for specific content in future videos.
+
+
+    Subject: Viewer Feedback on Presentation Style and Content Requests'
+  purple: 'The first set of comments express concerns about ethical implications,
+    potential dangers, and corporate involvement in the development of new technologies.
+
+
+    Subject: Ethical and safety concerns in technology development'
+  red: 'The initial comments express excitement, curiosity, and humor regarding the
+    potential applications and implications of AlphaFold''s advancements in protein
+    modeling.
+
+
+    Subject: Public reactions to AlphaFold''s advancements'
+PublishDate: '2024-05-08'
+Statistics:
+  commentCount: '407'
+  favoriteCount: '0'
+  likeCount: '40457'
+  viewCount: '404533'
+VideoID: tmdArnBbTXk
+VideoTitle: Huge News About AlphaFold
+blue:
+- Finally AI being used for what AI is good at. Doing a specific task that requires
+  probabilistic decision making but way faster than any person can
+- THIS is what AI should be used for! The greater good of humanity. <br><br>Not for
+  targeting where to send air strikes like a <i>certain</i> nation has been doing
+  recently.
+- "Everyone\u2019s going on about how ai\u2019s about to take their jobs and stuff,\
+  \ but THIS is the intended use (and the best use) for any machine learning algorithm.\
+  \ It makes some kind of field better for everyone involved, like alphafold is attempting\
+  \ now. Keep up the great work, love the tech stories!"
+- The good, not terrifying, aspects of AI.
+- This is the type of AI we actually need.
+clusters:
+  blue:
+    size: 43
+  green:
+    size: 8
+  pink:
+    size: 76
+  purple:
+    size: 74
+  red:
+    size: 53
+explained_variance_ratio_: '[0.05610472 0.04074105]'
+green:
+- I thought this was kind of how it was done already except slower
+- In two weeks will learn that Google faked that video demo too
+- Sounds awesome! This is why science has to be one of my top favorite things that
+  exist.
+- Does it also find the<br>fastest way around<br>metro cities
+- Two Minutes Papers have a great video about this
+pink:
+- "I wish You would SLOW down, You are exhausting. Imagine how profoundly you could\
+  \ share your info, if you stopped trying to beat the clock???<br>Some of us, need\
+  \ time to digest.<br>Don&#39;t take this the wrong way, but being young is wonderful\
+  \ physically, but when you get older, you will find that your mind (Wearhouse) has\
+  \ grown into something So big, that it takes a bit more time to put new info into\
+  \ the right storage area!<br>Often, young people think older people are slow? In\
+  \ some cases that&#39;s true, but: not always, as stated above.<br>Thanks for your\
+  \ enthusiasm, \U0001F49B\U0001F1EC\U0001F1E7\U0001F928"
+- your face for a second and change to another scene really eyes hurting, better not
+  show it at all.
+- Pls make a video on the Space capsules from Hong Kong
+- She&#39;s talking to  much with her hands
+- "Thank you so much for all these information.\U0001FAF6\U0001F3FE"
+purple:
+- Best thing is that we do not need any kind of animal testing for this.<br>No way
+  i&#39;m killing and torturing other sentient beings for my own health.
+- "Thats good <br><br>Now Lets talk about the amount of biological things it can potentially\
+  \ make to cause a lot of harm too \U0001F525 \U0001F9A0"
+- Oh boy, here comes that indestructible protein;  that would be a nightmare.
+- Are you guys realising or not I don&#39;t know but Google is slowly enterning into
+  Medicine and in no time will enter into other fields.
+- Who owns Alfafold?
+red:
+- As someone who contributed to folding @ home for a while. Hell yeah!
+- "We\u2019re getting close to being able to make a computer generated model of what\
+  \ your child will look like as an adult before they\u2019re even conceived."
+- But how do we know its not hallucinating the structures
+- This is a step towards those star trek medical computers
+- 'Me: Analyze this!<br><b>puts bicep under spectrometer</b><br><br>Alphafold: no
+  proteins detected'
+singular_values_: '[3.4226409  2.91660603]'

@@ -1,0 +1,12 @@
+CommentID,Comment,LikeCount
+UgwVupSvHiwjQTupzkh4AaABAg,"How can I save it as a pdb file. I can only save it as py and ipynb, which I cannot open in chimeraX",0
+UgycUsmUNBfQ55F8vUl4AaABAg,"I have two peptides with 17 residues each, one is head to tail cyclic peptide and the other is stapled peptide. Does alphafold2 work with chemically modified peptides?",0
+UgyUZ4WnqoXHxX4e8jJ4AaABAg,"Thank you. Please clear that the newly predicted structure in AlphaFold database needs to be validated through Ramachandra plot or needs to be refinement or not? Or can I directly use them for further docking procedures without refinement!?? (I&#39;ve seen the models after refinement clash score, molprobity is risen instead of lowered) Plz clarify me.",0
+Ugy-WR0L6bgbm16Tpdd4AaABAg,I have a question I&#39;m trying to predict two proteins with the linker between but the alpha fold has a disk issue. I don&#39;t understand is about my disk because I have 1 tb space to use but when it makes model number 3 it start stopping. can you please describe this?,0
+Ugx6p1mO7Y9nIe1lM_t4AaABAg,🙏 thank you for this!,0
+UgyEfzQYD4pRk--o8UZ4AaABAg,I&#39;ve  installed chimeraX (macos high sierra) but not show  structure prediction,2
+UgwBxow7n_zHI1unaKp4AaABAg,Thank you so much for posting this. It was really user friendly and easy-to-follow. It also explained some of the &quot;insufficient GPU&quot; errors I was getting from the AlphaFold2 colab notebook. It is important (as you noted) to install the &quot;Daily Build&quot; &quot;chimerax-daily.exe&quot; file as AlphaFold wasn&#39;t added before the 1.2.5 release. Thank you!,3
+Ugypmoq48qFi2O3_otF4AaABAg,Great video! Very informative.,0
+Ugyb57G61855GhT8KBN4AaABAg,"Hi, just wondering - when a structure exists in PDB - does that structure not get used as a template for structure prediction?",0
+UgxmClwOvop5ijX6Z-J4AaABAg,The video uses a sequence affiliated with a pre-existing PDB... anyway to use the same workflow with a protein sequence that does not have a PDB entry?,0
+UgxDghbPxRyvH5yyfBl4AaABAg,"Hi, thank you for sharing this video. I am wondering if you plan to release v1.3 sometime soon. I think currently v1.2.5 is the available version of ChimeraX that doesn&#39;t utilize AlphaFold.",0

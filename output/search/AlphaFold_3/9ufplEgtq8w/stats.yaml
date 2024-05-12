@@ -1,0 +1,95 @@
+ChannelName: Google DeepMind
+GPT-Summary:
+  blue: 'The first set of comments expresses a mix of admiration, curiosity, and skepticism
+    about the implications and understanding of AI advancements in scientific contexts.
+
+
+    Subject: Public reactions to AI advancements in scientific contexts'
+  green: 'The first set of comments appears disjointed and cryptic, discussing topics
+    ranging from technological infrastructure to spoofing devices and remote monitoring,
+    with a poetic touch on nature and technology.
+
+
+    Subject: Disjointed and cryptic discussions on technology and nature'
+  pink: 'The first set of comments express enthusiastic praise and gratitude for DeepMind''s
+    contributions to molecular biology and protein studies, highlighting the perceived
+    significant advancements and positive global impact.
+
+
+    Subject: Public appreciation and excitement for advancements in molecular biology
+    and protein studies by DeepMind'
+  purple: 'The first set of comments express high praise and anticipation for the
+    impact of Google DeepMind''s work, particularly in the field of medicine and global
+    well-being, with some concern about potential corporate monopolization.
+
+
+    Subject: Public Reaction to Google DeepMind''s Contributions'
+  red: 'The first set of comments consists of simple, enthusiastic reactions to a
+    video, expressing excitement and admiration without specific references to the
+    content or implications of the video.
+
+
+    Subject: simple reactions'
+PublishDate: '2024-05-08'
+Statistics:
+  commentCount: '111'
+  favoriteCount: '0'
+  likeCount: '1332'
+  viewCount: '45881'
+VideoID: 9ufplEgtq8w
+VideoTitle: AlphaFold Server Demo - Google DeepMind
+blue:
+- I, for one, welcome our AI overlords
+- "alphafold\u2764"
+- Awesome! Does the new evoformer mean the atomic coordinates are now different?
+- AIGC leads the world towards the future.
+- I am seeing all the hype and excitment about this but still fail to understand what
+  the revolutionary aspect is or how we will see its benefits. Can someone explain
+  and maybe put it into context of other important medical breakthroughs?
+clusters:
+  blue:
+    size: 10
+  green:
+    size: 25
+  pink:
+    size: 11
+  purple:
+    size: 18
+  red:
+    size: 28
+explained_variance_ratio_: '[0.05991268 0.05346813]'
+green:
+- When you get into conversations that makes sense to when those come that w Wanton&#39;t
+  screw you over
+- Advanced material infrastructure, retry space return. Advanced memory 88 infrastructure.
+  How to spoof a smart meter?
+- The sweet melody of the cool mind into a diamond mine<br><br>Retry voice input interruptions.The
+  sweet melody of the birds turn a coal mine into a diamond mine
+- Signals are changing holograms are cjane.Intensity and thresholds or minimizing
+- Deep mand how do you do remote normal monitoring
+pink:
+- Think of the breakthroughs that will happen in protein studies. Yippee
+- I can hardly believe this. I remember contributing bits of my crappy laptop CPU
+  in 2002 to the Usyd protein folding modular supercomputer. Molecular biology has
+  just evolved by a quantum leap
+- "Google DeepMind living in 3024 \u2764 thank you guys, your Dharma has already been\
+  \ more than fullfilled, amazing job, life on the whole planet will benefits from\
+  \ your work, thank you so much \u2764"
+- loving alphafold
+- Deepmind is an amazing team, incredible results!
+purple:
+- "Google DeepMind living in 3024 \u2764 thank you guys, your Dharma has already been\
+  \ more than fullfilled, amazing job, life on the whole planet will benefits from\
+  \ your work, thank you so much \u2764"
+- I suspect you guys will get the Nobel prize in Medicine soon. Amazing stuff. Thanks
+  from us, lesser mortals.
+- Think of the breakthroughs that will happen in protein studies. Yippee
+- Amazing technology. I can&#39;t wait for it to be monopolized by corporate giants.
+- Deepmind is an amazing team, incredible results!
+red:
+- Good job
+- So. Freakin&#39;. Exciting. &lt;3
+- Amazing, Really helpful.
+- "\U0001F92F\U0001F92F\U0001F92F"
+- History in the making, kind of video
+singular_values_: '[2.12683421 2.00919352]'

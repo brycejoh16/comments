@@ -1,0 +1,80 @@
+ChannelName: Bloomberg Television
+GPT-Summary:
+  blue: 'The first set of comments expresses a mix of anticipation, gratitude, caution,
+    urgency, and affection regarding the potential advancements in AI and its impact
+    on healthcare and other areas.
+
+
+    Subject: Public reactions to AI advancements in healthcare and technology'
+  green: 'The first set of comments expresses a mix of impatience, support, and affection
+    towards the developments in AI by Google DeepMind.
+
+
+    Subject: Mixed reactions to Google DeepMind''s AI developments'
+  pink: 'The first set of comments expresses a mix of gratitude, urgency, curiosity
+    about AI''s potential in healthcare, and nonsensical or filler content.
+
+
+    Subject: Mixed reactions to AI advancements in healthcare'
+  purple: 'The first set of comments expresses concerns about Google''s promises,
+    impatience, curiosity about AI''s potential in healthcare, and gratitude towards
+    Demis Hassabis for his work.
+
+
+    Subject: Public reactions to Google''s AI developments and expectations'
+  red: 'The first set of comments expresses gratitude, anticipation, and curiosity
+    about the potential of AI in medical advancements.
+
+
+    Subject: Public reactions to AI''s potential in medical advancements'
+PublishDate: '2024-05-08'
+Statistics:
+  commentCount: '7'
+  favoriteCount: '0'
+  likeCount: '46'
+  viewCount: '2801'
+VideoID: 8vJK6Y-ddo4
+VideoTitle: Google DeepMind CEO Expects AI-Designed Drugs in 'Next Couple of Years'
+blue:
+- I wonder if AI will start curing cancers
+- Thank demis....lives are depending on your success ..thanks so much for your passion
+- Google needs to be careful. Failing to deliver on promises = short.
+- Ffs hurry up
+- "\u2764\u2764\u2764\u2764\u2764\u2764\u2764"
+clusters:
+  blue:
+    size: 1
+  green:
+    size: 2
+  pink:
+    size: 1
+  purple:
+    size: 1
+  red:
+    size: 1
+explained_variance_ratio_: '[0.24338569 0.21684944]'
+green:
+- Ffs hurry up
+- kjk
+- Google needs to be careful. Failing to deliver on promises = short.
+- Thank demis....lives are depending on your success ..thanks so much for your passion
+- "\u2764\u2764\u2764\u2764\u2764\u2764\u2764"
+pink:
+- "\u2764\u2764\u2764\u2764\u2764\u2764\u2764"
+- Thank demis....lives are depending on your success ..thanks so much for your passion
+- Ffs hurry up
+- kjk
+- I wonder if AI will start curing cancers
+purple:
+- Google needs to be careful. Failing to deliver on promises = short.
+- Ffs hurry up
+- I wonder if AI will start curing cancers
+- kjk
+- Thank demis....lives are depending on your success ..thanks so much for your passion
+red:
+- Thank demis....lives are depending on your success ..thanks so much for your passion
+- "\u2764\u2764\u2764\u2764\u2764\u2764\u2764"
+- I wonder if AI will start curing cancers
+- Ffs hurry up
+- kjk
+singular_values_: '[1.02032564 0.9630979 ]'

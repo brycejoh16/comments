@@ -1,0 +1,101 @@
+ChannelName: Matt Wolfe
+GPT-Summary:
+  blue: 'The first set of comments discusses skepticism and concerns about the use
+    of data and AI in platforms like Stack Overflow and its impact on the job market
+    and intellectual property rights.
+
+
+    Subject: Skepticism and concerns about AI and data usage in technology platforms'
+  green: 'The first set of comments discusses various updates and speculations about
+    technological advancements and announcements from companies like OpenAI, with
+    a focus on AI developments and clarifications on upcoming news.
+
+
+    Subject: Technological Advancements and AI Developments in Online Discussions'
+  pink: 'The first set of comments contains a mix of humorous and personal reactions
+    to various topics, including pop culture references and personal appeals for learning.
+
+
+    Subject: simple reactions'
+  purple: 'The first set of comments primarily revolves around enthusiasm and support
+    for a specific topic or entity, AMS66P, with mentions of its potential and performance
+    in a market context.
+
+
+    Subject: Enthusiasm and support for AMS66P in a market context'
+  red: 'The initial comments express a mix of suggestions, apologies to nature, appreciation
+    for updates, and corrections on terminology used in social media.
+
+
+    Subject: Mixed reactions and suggestions in viewer comments'
+PublishDate: '2024-05-10'
+Statistics:
+  commentCount: '485'
+  favoriteCount: '0'
+  likeCount: '5971'
+  viewCount: '154026'
+VideoID: 6tGyCYcoFYs
+VideoTitle: 'AI News: Get Ready, Things Are About to Get Crazy!'
+blue:
+- "Lol, if it\u2019s trained on Stackoverflow, I\u2019m not sure that\u2019s going\
+  \ to be a thing that makes it smarter"
+- The Sora scenes are not identical. That song does not sound like Tom Petty even
+  one bit. China robotics lab is easy to fake, you don&#39;t need AI for that. If
+  any of this fools you...good luck in your future.
+- Stack Overflow was tanking long before C-GPT. I am pretty sure OpenAI already used
+  Stack Overflow content before this ill-defined API deal.
+- you know I really want to feel bad about people who dont want their works being
+  used to train models but there have been a lot of people sounding the alarm about
+  sharing all you data on line so for one this is your fault and for two copy right
+  covers copying a work not using it
+- I&#39;m a boomer and many idiots from my generation didn&#39;t want to contribute
+  to Stack Overflow (or anything similar) because it was training young programmers
+  to take their job. No one can say they were contributing to Stack Overflow without
+  the knowledge that other people would use it to compete with them in the market,
+  including by writing software that writes code.
+clusters:
+  blue:
+    size: 37
+  green:
+    size: 115
+  pink:
+    size: 57
+  purple:
+    size: 28
+  red:
+    size: 81
+explained_variance_ratio_: '[0.05522415 0.03739199]'
+green:
+- "I\u2019d hate to be a science fiction writer. No way to stay ahead of reality.<br><br>Robot\
+  \ warriors are no doubt well on their way."
+- No mention of Soundhound AI
+- Wait &#39;till Matt sees what OpenAI sora just released
+- 'Quick update: <br>Greg Brockman from OpenAI said that Monday&#39;s announcement
+  will NOT be about a new search engine: <a href="https://twitter.com/gdb/status/1788991331962089536">https://twitter.com/gdb/status/1788991331962089536</a>'
+- 'Quick update: <br>Greg Brockman from OpenAI said that Monday&#39;s announcement
+  will NOT be about a new search engine: <a href="https://twitter.com/gdb/status/1788991331962089536">https://twitter.com/gdb/status/1788991331962089536</a>'
+pink:
+- Did your T-shirt just get crazy? It looks inside-out
+- "H y mat Hey mad ich hei\xDFe Andy und bin n ein bisschen depertbaber ich brauche\
+  \ ein Lehre und irgendwie f\xFChle ich das du was beibringen kannst were cool mir\
+  \ geht as mit dem bei zu bringen zahle es auch ?"
+- "All Harry Potter books? <br>So around 1 Stormlight Archive book! \U0001F602"
+- "You are my fav ai news guy.\U0001F60A\U0001F60A\U0001F60A\U0001F60A  time stamps!....\U0001F389\
+  \U0001F389\U0001F60A\U0001F389\U0001F389"
+- "For a moment I thought the title said: Alestorm. \U0001F642"
+purple:
+- Glad you mentioned AMS66P, but make sure you don&#39;t miss AERO as well
+- Give us the AMS66P!  I need maximum gainage! For extreme bustism!
+- AMS66P, low capitalization, good project and with an easy 10x potential in this
+  bull market .. thanks you
+- AMS66P for me.... Great to see it going up.
+- Great information!!!! will load up the AMS66P bags now
+red:
+- "Eleven Labs, for the love of God! You need \u201Cemotion sliders!\u201D Other than\
+  \ that you\u2019re perfect!"
+- What would we say to whales? &quot;Sorry for being SOBs and almost killing you all
+  foe money!&quot;
+- Thanks for the updates! Subbed for the friday AI updates.
+- Please no more fakines
+- Nobody called it &quot;X&quot;, man. It&#39;s Twitter.
+singular_values_: '[3.81414538 3.13849939]'

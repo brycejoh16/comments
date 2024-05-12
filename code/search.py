@@ -5,7 +5,10 @@ import yaml
 import pandas as pd
 from datetime import datetime
 # Set up YouTube API key
-API_KEY = "AIzaSyA2Ghvtqo9_Te5zAjLZIFiJVMzXLCquyIs"
+
+import matplotlib.pyplot as plt
+
+from keys import API_KEY
 
 # Function to search for videos related to climate change and extract video IDs
 def search_videos(query, max_results=10000):
@@ -84,30 +87,35 @@ def save_video_comments(video_id,parent_dir):
         nextPageToken = None
         while True:
             # Fetch comments in batches of 100
-            response = youtube.commentThreads().list(
-                part="snippet",
-                videoId=video_id,
-                maxResults=100,
-                pageToken=nextPageToken
-            ).execute()
+            try:
+                response = youtube.commentThreads().list(
+                    part="snippet",
+                    videoId=video_id,
+                    maxResults=100,
+                    pageToken=nextPageToken
+                ).execute()
 
-            for item in response["items"]:
-                comment_id = item["snippet"]["topLevelComment"]["id"]
-                comment_text = item["snippet"]["topLevelComment"]["snippet"]["textDisplay"]
-                like_count = item["snippet"]["topLevelComment"]["snippet"]["likeCount"]
-                comments_info.append({'CommentID': comment_id, 'Comment': comment_text, 'LikeCount': like_count})
+                for item in response["items"]:
+                    comment_id = item["snippet"]["topLevelComment"]["id"]
+                    comment_text = item["snippet"]["topLevelComment"]["snippet"]["textDisplay"]
+                    like_count = item["snippet"]["topLevelComment"]["snippet"]["likeCount"]
+                    comments_info.append({'CommentID': comment_id, 'Comment': comment_text, 'LikeCount': like_count})
 
-                # Check if the comment has replies
-                if "replies" in item:
-                    for reply_item in item["replies"]["comments"]:
-                        reply_id = reply_item["id"]
-                        reply_text = reply_item["snippet"]["textDisplay"]
-                        reply_like_count = reply_item["snippet"]["likeCount"]
-                        comments_info.append({'CommentID': reply_id, 'Comment': reply_text, 'LikeCount': reply_like_count})
+                    # Check if the comment has replies
+                    if "replies" in item:
+                        for reply_item in item["replies"]["comments"]:
+                            reply_id = reply_item["id"]
+                            reply_text = reply_item["snippet"]["textDisplay"]
+                            reply_like_count = reply_item["snippet"]["likeCount"]
+                            comments_info.append(
+                                {'CommentID': reply_id, 'Comment': reply_text, 'LikeCount': reply_like_count})
 
-            # Check if there are more comments to fetch
-            nextPageToken = response.get("nextPageToken")
-            if not nextPageToken:
+                # Check if there are more comments to fetch
+                nextPageToken = response.get("nextPageToken")
+                if not nextPageToken:
+                    break
+            except Exception as e:
+                print("An error occurred:", e)
                 break
 
         return comments_info
@@ -128,11 +136,78 @@ def save_video_comments(video_id,parent_dir):
 
     print(f"Comments saved to: {comments_file}")
 
+def analyze_comments_distribution(search_query, parent_dir):
+    # Load comments data
+    comments_dir = os.path.join(parent_dir, search_query.replace(' ', '_'))
+    comments_data = pd.DataFrame()
+
+    with open(os.path.join(comments_dir,'videos.json'), 'r') as json_file:
+        video_ids = json.load(json_file)
+
+    lc,cc,vid= [],[],[]
+    # Concatenate comments data from all videos
+    for i,video_id in enumerate(video_ids):
+        stats_file = os.path.join(comments_dir, video_id,'stats.yaml')
+
+        with open(stats_file, 'r') as yaml_file:
+            stats_data = yaml.safe_load(yaml_file)
+
+        # Extract relevant statistics
+        video_id = stats_data['VideoID']
+        if 'likeCount' in stats_data['Statistics'].keys() and 'commentCount' in stats_data['Statistics'].keys():
+            like_count = int(stats_data['Statistics']['likeCount'])
+            comment_count = int(stats_data['Statistics']['commentCount'])
+            lc.append(like_count)
+            cc.append(comment_count)
+            vid.append(video_id)
+        else:
+            pass
+
+
+        # Add data to dataframe
+
+
+    comments_data['video_id']= vid
+    comments_data['likeCount']= lc
+    comments_data['commentCount']=  cc
+
+    # Plot histogram of comment likes distribution
+    plt.figure(figsize=(10, 6))
+    plt.hist(comments_data['likeCount'], bins=30, color='skyblue', edgecolor='black', alpha=0.7)
+    plt.title(f'Comment Likes Distribution for "{search_query}" Videos')
+    plt.xlabel('Number of Likes')
+    plt.ylabel('Frequency')
+    plt.grid(True)
+    plt.tight_layout()
+
+    # Save histogram to file
+    histogram_file = os.path.join(parent_dir, search_query.replace(' ', '_'), f'{search_query.replace(" ", "_")}_comment_likes_histogram.png')
+    plt.savefig(histogram_file)
+
+    plt.figure(figsize=(10, 6))
+    plt.hist(comments_data['commentCount'], bins=30, color='skyblue', edgecolor='black', alpha=0.7)
+    plt.title(f'Comment Count Distribution for "{search_query}" Videos')
+    plt.xlabel('Number of Comments')
+    plt.ylabel('Frequency')
+    plt.grid(True)
+    plt.tight_layout()
+
+    # Save histogram to file
+    histogram_file = os.path.join(parent_dir, search_query.replace(' ', '_'),
+                                  f'{search_query.replace(" ", "_")}_comment_count_histogram.png')
+    plt.savefig(histogram_file)
+
+    print(f"Comment likes distribution histogram saved to: {histogram_file}")
+
+# Add this function call inside the if __name__ == '__main__': block
+
 
 
 
 if __name__ == '__main__':
-    for search_query in ["climate change",'AI','clean energy','GMO']:
+    # for search_query in ["climate change",'AI','clean energy','GMO']:
+    for search_query in ['AlphaFold 3']:
+        # analyze_comments_distribution(search_query, 'output/search/')
         search(search_query)
-
+#
 

@@ -1,0 +1,101 @@
+ChannelName: Two Minute Papers
+GPT-Summary:
+  blue: 'The first set of comments expresses skepticism, humor, and a mix of excitement
+    and disillusionment about the implications and accessibility of technological
+    advancements.
+
+
+    Subject: Public reactions to technological advancements'
+  green: 'The first set of comments humorously and critically explores the potential
+    unintended consequences and ethical considerations of biotechnological advancements,
+    such as enzymes designed to break down plastics.
+
+
+    Subject: Ethical and Unintended Consequences of Biotechnological Advancements'
+  pink: 'The first set of comments delves into technical discussions and expresses
+    cautious optimism about the advancements in AI and protein folding, highlighting
+    both the potential and the limitations.
+
+
+    Subject: Technical discussions and cautious optimism on AI advancements in protein
+    folding'
+  purple: 'The first set of comments express straightforward and enthusiastic reactions
+    to the content, often with exclamations of amazement and excitement.
+
+
+    Subject: simple reactions'
+  red: 'The first set of comments express dissatisfaction with the video''s production
+    quality and the presenter''s delivery style.
+
+
+    Subject: Viewer feedback on video production and presentation style'
+PublishDate: '2024-05-08'
+Statistics:
+  commentCount: '542'
+  favoriteCount: '0'
+  likeCount: '8884'
+  viewCount: '174768'
+VideoID: Mz7Qp73lj9o
+VideoTitle: DeepMind AlphaFold 3 - This Will Change Everything!
+blue:
+- They arent giving this away for free. It&#39;d be open source if so
+- It beating physics-based systems is INSANE
+- "As a Beer transport researcher I got excited at the low score of <a href=\"https://www.youtube.com/watch?v=Mz7Qp73lj9o&amp;t=453\"\
+  >7:33</a> no IPA\U0001F602\U0001F602"
+- Sigh, it&#39;s amazing how everything is about to &#39;change everything&#39; and
+  yet nothing ever seems to fundamentally change.
+- "why do I feel as if a walk through Alien Resurrection is already happening \U0001F937\
+  \U0001F3FC\u200D\u2640\uFE0F"
+clusters:
+  blue:
+    size: 101
+  green:
+    size: 113
+  pink:
+    size: 88
+  purple:
+    size: 26
+  red:
+    size: 38
+explained_variance_ratio_: '[0.06088081 0.03736355]'
+green:
+- 'Scientists: &quot;Let&#39;s make plastic-eating thingies!&quot; Scientists: &quot;Yay!&quot;<br><br>Fast
+  forward 2 years.<br><br>Humans: &quot;So there was a lot of plastics in everything...&quot;<br><br>Enzymes:
+  &quot;Humans are also full of plastics.&quot;<br><br>Humans: &quot;Wait...&quot;'
+- "\U0001F644 oooooooooh finally a working protein folder \U0001F632 wow thats the\
+  \ biggest breakthrough since they discovered dna!"
+- "Synthetic Biology is about to pop off \U0001F389"
+- am I the only one who thinks its hilarious that we are making proteins/enzymes that
+  will be breaking down the one material that would leave behind obvious evidence
+  of an advanced civilization? (plastic)
+- sick. now craft some ligands to destroy prions
+pink:
+- Connect that to an intelligent chatbot and we are one step closer to theorised cures
+- "it&#39;s cool and all, but even a basic ACTUAL rice prolamin taken from \xB7 Proteomes\
+  \ \xB7 Oryza sativa subsp. japonica:<br>example<br>&gt;sp|P20698|PRO28_ORYSJ Prolamin\
+  \ PPROL 17D OS=Oryza sativa subsp. japonica OX=39947 GN=Os12g0269200 PE=2 SV=2<br>MKIIFFFALLAIAACSASAQFDAVTQVYRQYQLQPHLMLQQQMLSPCGEFVRQQCSTVAT<br>PFFQSPVFQLRNCQVMQQQCCQQLRMIAQQSHCQAISSVQAIVQQLRLQQFASVYFDQSQ<br><br>Will\
+  \ end up with a reasonable percentage of very low positional confidence.<br>So,\
+  \ not a silver bullet, but yes really cool steps forward.<br><br>Excellent stuff,\
+  \ and huge appreciation for the server access"
+- I get shivers every time i work with alphafold! to think that it is free. A true
+  testement to the Greatness of human civilisation!
+- Just wait until they release SigmaFold
+- as amazing as it seems, my sceptic brain thinks its a slippery slope to hype papers
+  before they are officially published and that in form of sponsored contect. Also
+  I would like an opinion from someone that is more knowledgeable on the biochemistry
+  side of things.
+purple:
+- Amazing!
+- Knock! Knock! What a time to be ImMortal
+- Awesome!
+- My goodness this is so exciting I let go of my papers!
+- This seems to be great! WOW!
+red:
+- That fake stock video background is unwatchable
+- You sound more robotic. Are you using a generator?
+- "Computer generated voice?\U0001F605"
+- I think- that your videos- are good- AND have a lot- of- interesting content- AND-
+  maybe it could be- improved- with less- gaps- ANND- less &quot;ANND&quot;
+- Too much overenthusiasm, too little actual explanation. Your content is getting
+  worse and worse.
+singular_values_: '[4.24617767 3.32645791]'

@@ -1,0 +1,102 @@
+ChannelName: AI Search
+GPT-Summary:
+  blue: 'The first set of comments discusses various AI applications, concerns about
+    AI safety, preferences for offline AI tools, and inquiries about AI in hardware
+    development.
+
+
+    Subject: AI applications, safety, offline usage preferences, and hardware development
+    inquiries'
+  green: 'The first set of comments generally consists of straightforward reactions
+    to the video content, inquiries about practical applications, and mentions of
+    computational performance metrics.
+
+
+    Subject: simple reactions'
+  pink: 'The first set of comments express a mix of confusion, interest in practical
+    applications, and specific technical desires related to computational capabilities
+    and offline usage.
+
+
+    Subject: Mixed reactions to technical content and application desires'
+  purple: 'The first set of comments express specific concerns and inquiries about
+    offline capabilities, computational requirements, and free AI tools, reflecting
+    a more technical and detailed engagement with the content.
+
+
+    Subject: Technical Engagement and Specific Inquiries'
+  red: 'The first set of comments consists of simple reactions and brief expressions
+    of emotion or opinion without detailed context or specific references to the video
+    content.
+
+
+    Subject: simple reactions'
+PublishDate: '2024-05-08'
+Statistics:
+  commentCount: '33'
+  favoriteCount: '0'
+  likeCount: '199'
+  viewCount: '5199'
+VideoID: jqAGiD6fNHY
+VideoTitle: Alphafold 3 Explained, Sora's new features, IBM's open-source models,
+  AI deadly viruses - AI News
+blue:
+- hellow Ai search tool is there any text to image generator for free
+- Is there anything AI related for hardware development? I mean, RTL development like
+  systemverilog in microelectronic?
+- What could we potentially do with knowledge on all the proteins/shapes that are
+  possible?
+- the risk posed by artificial pathogens is much more concrete than the risk posed
+  by artificial intelligence
+- "This is interesting but it won\u2019t be good until I can use it off-line and locally.\
+  \ I\u2019m willing to pay a one time fee, I\u2019m not interested in an online service\
+  \ neither is a great many other people. This is why stable diffusion did so well,\
+  \ you could use it locally and off-line."
+clusters:
+  blue:
+    size: 3
+  green:
+    size: 3
+  pink:
+    size: 3
+  purple:
+    size: 2
+  red:
+    size: 3
+explained_variance_ratio_: '[0.12720253 0.11980603]'
+green:
+- Nice vid! Very useful
+- good video
+- Tem alguma coisa nesse video que eu possa usar? Ou sao somente as promessas?
+- base video , 16x video , 32x compute video , 63x compute, 74x compute,108x compute,
+  134x compute
+- good news, but to much speculation
+pink:
+- this is too much for my brian to understand
+- good news, but to much speculation
+- What could we potentially do with knowledge on all the proteins/shapes that are
+  possible?
+- "This is interesting but it won\u2019t be good until I can use it off-line and locally.\
+  \ I\u2019m willing to pay a one time fee, I\u2019m not interested in an online service\
+  \ neither is a great many other people. This is why stable diffusion did so well,\
+  \ you could use it locally and off-line."
+- base video , 16x video , 32x compute video , 63x compute, 74x compute,108x compute,
+  134x compute
+purple:
+- "This is interesting but it won\u2019t be good until I can use it off-line and locally.\
+  \ I\u2019m willing to pay a one time fee, I\u2019m not interested in an online service\
+  \ neither is a great many other people. This is why stable diffusion did so well,\
+  \ you could use it locally and off-line."
+- What could we potentially do with knowledge on all the proteins/shapes that are
+  possible?
+- base video , 16x video , 32x compute video , 63x compute, 74x compute,108x compute,
+  134x compute
+- hellow Ai search tool is there any text to image generator for free
+- this is too much for my brian to understand
+red:
+- "\U0001FAE0"
+- sigma
+- "\u2764"
+- good news, but to much speculation
+- this is too much for my brian to understand
+singular_values_: '[1.18742898 1.15238901]'

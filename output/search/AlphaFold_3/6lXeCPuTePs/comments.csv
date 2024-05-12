@@ -1,0 +1,23 @@
+CommentID,Comment,LikeCount
+UgxYFqXQVu9nloDTs1F4AaABAg,"Thanks for the helpful video.<br>Is it possible to let AlphaFold predict interactions of two proteins where I already have the .pdb file? Especially if my two proteins would exceed the 1000 residue GPU limit, could this help to circumvent the prediction limitation?",0
+UgzZWD1i7xGe4UFa_Fx4AaABAg,Thanks those who built such an amazing program and definitely much helpful for every researchers globally. The very good thing about this software is is no barrier to use it. Non discriminatory at all. Much thankful.,0
+UgzNFGp28wH_-rZ20J94AaABAg,Where did u get the experimental file from,0
+UgzbV5X5wG4U25NAcz54AaABAg,"This is really great. For homomeric proteins, i,.e., a homodimer, do you copy the amino acid sequence twice separated by a coma?",0
+UgxtusdVBnE0jPMCcQl4AaABAg,Thank you so much！,0
+UgzTS7Gpm28DBHISfFJ4AaABAg,"Hello, is there a limit number of amino acids (in total) to be run to predict the multimeric structure, for example I need to run a prediction to know how a certain protein may interact with itself, so it may form a dimer, trimer, or oligomer. it is about 300 amino acids, do I need to make a run for every x-mer interaction, like for dimer to inter the AA sequence twice and run Chimera, and so on??<br>Thank you",0
+Ugw6ciK-0I81iLHdI6R4AaABAg,What if one of your proteins is prokaryotic and the other is eukaryotic?,0
+UgwQYh7aZtLah6euwz54AaABAg,"Outstanding video. One question - if I close my computer // put it to sleep, will the computation continue?",0
+Ugyz6lTFvkblRg6PU754AaABAg,I am curious about how alphafold2 multimers will change the landscape of docking? How could one go about using alphafold to predict binding and protein-protein interaction?,1
+UgwdCjCw1KGLCgr3uIx4AaABAg,"Great video, excited to get get started with ChimeraX! I am wondering if you of any way to perform the Global Distance Test (the metric used in CASP14). This would be incredibly helpful to my current research and would be interesting to be able to quantify the validity of these already image structures.",0
+UgyoflliD-EvbWOC_554AaABAg,Are we supposed to have Python 3 already installed?,0
+UgwKTSXmVWf6P2ZJp2x4AaABAg,What&#39;s the minimum RAM or set up required to run alphafold?,0
+Ugy-9H5sdlSV0s3yxFp4AaABAg,"Thanks for the tutorial!<br>I just have one question. If I have to predict an eukaryote protein complex and don&#39;t check prokaryote button, the Alphafold multimer will run fine?",0
+UgzLbA1FhbIJw_sIlsh4AaABAg,Fantastic tutorial! I immediately installed a daily build and folded the small subunit of my favorite dimer forming protein. I have been trying to fold the entire dimer which together is 834 aa long but the session times out after 5 hours. Should I keep trying?,0
+UgzaFXnxbztDSqR5YUl4AaABAg,Thank you,0
+Ugz8K5zTupBg7WkhM6Z4AaABAg,The Webpage for ChimeraX is not available now?,0
+UgwqjdxsGCkfEoXqb3F4AaABAg,"Hi! The option to predict protein complexes from ChimeraX is no longer available? I have the version from 08/12/2021 and when I insert two protein sequences separated by a comma, it does not ask me if those proteins are prokaryote and an error message pops up. Do I have to install anything? Thank you!",0
+UgyzTMdf8ZsQC5lrFwl4AaABAg,"Thank you so much! Has the heat map feature of AlphaFold been added? If so, what is the command? Thank you again! :)",1
+Ugz_7ZkksaN9QRi_j3B4AaABAg,When new video is coming up ?,0
+Ugytv4klKoOtY3NjlNB4AaABAg,very good introduction!!!,0
+Ugz0i4PvWvLzW0xc1Qd4AaABAg,Loved the video,0
+UgwGG3Uif-kKC_XV21V4AaABAg,"Thanks for all the ChimeraX / Alphafold tutorials! Really useful, keep them coming! Docking the predicted structure with ligand binding would be great.",10
