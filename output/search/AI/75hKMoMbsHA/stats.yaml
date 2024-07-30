@@ -1,0 +1,95 @@
+ChannelName: AI Entertainment
+GPT-Summary:
+  blue: 'The first set of comments expresses amusement and personal preferences regarding
+    specific individuals'' behaviors and characteristics in a lighthearted manner.
+
+
+    Subject: Simple reactions'
+  green: 'The first set of comments contains simple reactions to the appearances and
+    actions of individuals in a video.
+
+
+    Subject: simple reactions'
+  pink: 'The first set of comments consists of simple reactions and personal shout-outs
+    to individuals, expressing affection and humor.
+
+
+    Subject: simple reactions and personal shout-outs'
+  purple: 'The first set of comments primarily critiques the attire and modesty of
+    participants across different batches, emphasizing expectations and improvements
+    in how they dress.
+
+
+    Subject: Critique on Participant Attire and Modesty in Different Batches
+
+
+    Reactions: simple reactions'
+  red: 'The initial comments express concerns and criticisms regarding the appropriateness
+    and modesty of the attire worn by the talents in the video.
+
+
+    Subject: Attire Concerns and Criticisms'
+PublishDate: '2024-04-30'
+Statistics:
+  commentCount: '464'
+  favoriteCount: '0'
+  likeCount: '8072'
+  viewCount: '84378'
+VideoID: 75hKMoMbsHA
+VideoTitle: TEKA SAYUR IN ENGLISH !!! TALENT BARU EXCITED MASUK ENTERTAIMENT...
+blue:
+- "Aku dh minat dgn faeqah tu lah pulak\u2026selain ehin\u2026\U0001F605"
+- Mika tu overrrrr
+- "Talent baru lelaki tu lawak\U0001F602\U0001F602"
+- trus behave masing ii alep msuk HAHAHAHAHA
+- "Tlent baru lelaki dhlh hensem lawak pulak\U0001F602\U0001F602\U0001F602\U0001F602"
+clusters:
+  blue:
+    size: 24
+  green:
+    size: 37
+  pink:
+    size: 103
+  purple:
+    size: 33
+  red:
+    size: 70
+explained_variance_ratio_: '[0.06120672 0.04105165]'
+green:
+- "Comel lah bah sumandak sabah tu\U0001F60D\U0001F525"
+- "blm pape dh kena kecam \U0001F602"
+- "Nisa ayra bru join tk dpt nk jawab\U0001F62D"
+- "Awal sangat tunjuk belang tu mikasa \U0001F605"
+- "Comel je ada Abang Aliff semua teratur \U0001F602"
+pink:
+- "Faridah \u2764\u2764"
+- Bijak isya
+- Mimi tetap semangat
+- "Alief dh jdi guru disiplin\U0001F602"
+- Muka ehin macam sancorn pun ada yang main pubg tu
+purple:
+- heheh ni bukan nak bandingkan tapi just nak cakap mana tau dorg baca kan. antara
+  batch 1,2,3.. dari segi pakaian batch 2 je elok mata memandang. hehe apapun leader
+  tegur la ye mana yg menonjol tu
+- Alamak tak best la perempuan talent sementara batch 3 ni macam memain je masuk pahtu
+  sendu betul ekk
+- hm hambar lah batch 3 perempuan ni. mungkin masih awal
+- "JUJUR NK CAKAP TALENT BATCH 02 TBAIK DARI SEGI PEMAKAIAN\u2764"
+- Batch 2 betul2 jaga aurat..batch 3 nie awal2 dh lalai pasal aurat..apa2 harap2 ada
+  perubahan dari semasa ke semasa..
+red:
+- vid kali ni aku tak boleh fokus dkt content. sbb pemakaian talent ada yg tak mengikut
+  yg sepatutnya. to alief irfan, tolonglah strict pemakaian. yes mmng ttp aurat tapi
+  mcm tak kena. aku haraplah alief baca komen dan ambik tindakan. tq
+- Harap syuhada kena serap masuk.. supaya yg lain blh muhasabah diri cara pakaian
+  ..makin lama makin teruk ea
+- Talent baru tu mika tolong la jangan pakai baju masuk kedalam gitu sama dengan tiqah
+  dan amanda .. huduh bodo nampak bontot gitu..lagi satu pina . Pakai la pakaian besar2
+  sikit kau tu dah la kerangka kasarr .
+- "baju tu function apa tuck in? Harap talent permanent jaga la pemakaian... teruk\
+  \ naw \U0001F60F"
+- "To abang alieff\U0001F62D\u2764\uFE0Ftolong lah bagi syarat pemakaian ke tempat\
+  \ kerja..utk piena n mika please jaga pemakaian korang,sebab korang kerja bercampur\
+  \ laki pompuan,so terapkan sedikit common sense dalam diri\U0001F60A untuk fae n\
+  \ syura semoga istiqomah dalam jaga aurat"
+singular_values_: '[3.31330283 2.71348181]'

@@ -1,0 +1,82 @@
+ChannelName: Dude
+GPT-Summary:
+  blue: 'The first set of comments humorously and inappropriately describe a scenario
+    involving exaggerated and racially stereotyped characters in a KFC setting.
+
+
+    Subject: Racial Stereotypes and Humor in Online Comments'
+  green: 'The first set of comments contains derogatory and insensitive remarks about
+    disabilities, particularly targeting individuals with Down syndrome and autism.
+
+
+    Subject: Insensitive Remarks on Disabilities'
+  pink: 'The first set of comments consists of simple reactions and brief, varied
+    expressions related to the content of the video.
+
+
+    Subject: simple reactions'
+  purple: 'The initial comments predominantly mock or negatively stereotype a child
+    based on perceived disabilities, using derogatory language and insensitive humor.
+
+
+    Subject: Mocking and stereotyping based on perceived disabilities'
+  red: 'The first set of comments primarily consists of humorous or mocking reactions
+    to a video featuring celebrities like Shaquille O''Neal in unexpected or amusing
+    scenarios.
+
+
+    Subject: Humorous reactions to celebrity appearances in a video'
+PublishDate: '2024-04-20'
+Statistics:
+  commentCount: '858'
+  favoriteCount: '0'
+  likeCount: '139028'
+  viewCount: '1895237'
+VideoID: 5511oLlTc9A
+VideoTitle: "Random Kid Goes Psycho!\U0001FAE3 #ai #aiart #chatgpt"
+blue:
+- Bro actually went to KFC
+- '&quot;Generate me a picture of the interior of a KFC full of  <b>oiled up big black
+  booty men</b> . &quot;'
+- "I love how the guys in the kfc are all nearly using utensils and the chicken is\
+  \ in their cup \U0001F602\U0001F602"
+- "imagine the prompts in the last one..      <br>&quot;GENERATE ME AN IMAGE OF 26\
+  \ SHIRTLESS BLACK PEOPLE IN KFC&quot;<br>edit: Yall be correcting me fr \U0001F62D"
+- That was just a normal day at KFC
+clusters:
+  blue:
+    size: 52
+  green:
+    size: 65
+  pink:
+    size: 388
+  purple:
+    size: 89
+  red:
+    size: 42
+explained_variance_ratio_: '[0.04549591 0.0334032 ]'
+green:
+- "Nah they killed a down syndrome kid \U0001F480"
+- "He can&#39;t help it he&#39;s just a little sped kid\U0001F629\U0001F613"
+- "Bro cant say much he has down syndrome \U0001F480"
+- "The kid looks like a downy \U0001F62D\U0001F62D\U0001F62D"
+- "Really an autistic kid\U0001F602"
+pink:
+- Good
+- ah haha diserve
+- R.I.P Shane Gillis
+- well well well
+- "Drip goku\U0001F480"
+purple:
+- the kid looks acustic
+- This kid litterly havent learned his leason after dying and come back alive again
+- "The kid look like down\U0001F602"
+- Why every video i see its always the kid dying
+- why always this &#39;special&#39; guy?
+red:
+- "He said chicken nuggets \u2620\uFE0F"
+- "blud died by them saying chicken ni-\U0001F602"
+- "Whats shaquille o&#39;neal and jack doherty doin bro \U0001F480"
+- I saw Dwayne get of this now shaq
+- Shaq is in his villian arc rn...
+singular_values_: '[4.81741219 4.12782872]'
